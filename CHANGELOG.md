@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.7
+
+- Require Ragnavik Gameplay 1.0.1 with Jotunn 2.30.2.
+- Update OdinBanners to 1.1.14, OdinHorse to 1.7.3, and KillMeForMyPower to 2.5.0.
+
 ## 1.0.6
 
 - Add Ragnavik Gameplay 1.0.0 for the shared personalized starter chest at the StartTemple.
