@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Update Ragnavik Compatibility to 1.0.6 for the current MagicPlugin and EpicMMO versions and custom creature progression.
+
 ## 1.0.1
 
 - Update the package icon with a matching `SHARED PACK` label.
