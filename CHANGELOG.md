@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- Add Ragnavik Gameplay 1.0.0 for the shared personalized starter chest at the StartTemple.
+
 ## 1.0.5
 
 - Update Ragnavik Compatibility to 1.0.7 so Afterdeath wisps can cross dungeon transitions and use existing portals during corpse recovery.
