@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Remove DedicatedServer 1.0.3 to restore normal simulation ownership and reduce performance issues.
+
 ## 1.0.2
 
 - Update Ragnavik Compatibility to 1.0.6 for the current MagicPlugin and EpicMMO versions and custom creature progression.
