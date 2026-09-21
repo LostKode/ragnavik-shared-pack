@@ -1,8 +1,12 @@
 # Changelog
 
+
+## 1.0.8
+
+- Update Jotunn to 2.30.2 and EpicLoot to 0.14.11.
 ## 1.0.7
 
-- Require Ragnavik Gameplay 1.0.1 with Jotunn 2.30.2.
+- Require Ragnavik Gameplay 1.0.1.
 - Update OdinBanners to 1.1.14, OdinHorse to 1.7.3, and KillMeForMyPower to 2.5.0.
 
 ## 1.0.6
