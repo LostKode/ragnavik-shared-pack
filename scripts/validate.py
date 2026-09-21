@@ -16,7 +16,6 @@ from build_package import build, package_files
 
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_SHARED_CONFIGS = {
-    "config/Azumatt.HearthBelow.cfg",
     "config/Azumatt.MaxPlayerCount.cfg",
     "config/Azumatt.SleepSkip.cfg",
     "config/Azumatt_and_ValheimPlusDevs.PerfectPlacement.cfg",
