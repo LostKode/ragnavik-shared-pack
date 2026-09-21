@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+
+- Remove GhostBuild after isolated testing identified it as a major client frame-rate regression.
+- Remove HearthBelow after isolated testing confirmed terrain rendering defects and additional frame-rate loss.
+
 ## 1.0.3
 
 - Remove DedicatedServer 1.0.3 to restore normal simulation ownership and reduce performance issues.
