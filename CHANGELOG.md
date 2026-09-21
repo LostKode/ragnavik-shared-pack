@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Update Ragnavik Compatibility to 1.0.7 so Afterdeath wisps can cross dungeon transitions and use existing portals during corpse recovery.
+
 ## 1.0.4
 
 - Remove GhostBuild after isolated testing identified it as a major client frame-rate regression.
