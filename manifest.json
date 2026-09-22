@@ -1,6 +1,6 @@
 {
   "name": "Ragnavik_Shared",
-  "version_number": "1.0.12",
+  "version_number": "1.0.13",
   "website_url": "https://ragnavik.vercel.app",
   "description": "Shared gameplay dependencies and synchronized configuration for Ragnavik clients and servers.",
   "dependencies": [
@@ -101,7 +101,7 @@
     "Smoothbrain-SmartSkills-1.0.3",
     "Smoothbrain-StaminaRegenerationFromFood-1.5.8",
     "Smoothbrain-Starvation-1.0.5",
-    "Smoothbrain-StartupAccelerator-1.0.4",
+    "Smoothbrain-StartupAccelerator-1.0.3",
     "Smoothbrain-TargetPortal-1.2.6",
     "turbero-KillMeForMyPower-2.5.0",
     "ValheimModding-Jotunn-2.30.2",
