@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.10
+
+- Update Ragnavik Gameplay to 1.0.2 to restore starter chest interaction and support the current Valheim APIs.
+
 ## 1.0.9
 
 - Add Valheim Performance Profiler 0.1.0 for shared client and server diagnostics.
