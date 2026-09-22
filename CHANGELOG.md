@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.13
+
+- Correct StartupAccelerator to its available 1.0.3 release.
+
 ## 1.0.12
 
 - Update Ragnavik Compatibility to 1.0.8 so Afterdeath uses a valid bed when it is closer to the death point than the nearest Skathi.
