@@ -20,6 +20,7 @@ REQUIRED_SHARED_CONFIGS = {
     "config/Azumatt.SleepSkip.cfg",
     "config/Azumatt_and_ValheimPlusDevs.PerfectPlacement.cfg",
     "config/blacks7ar.LootParticlePlus.cfg",
+    "config/gravebear.odinsfoodbarrels.cfg",
     "config/neobotics.valheim_mod.seidrchest.cfg",
     "config/org.bepinex.plugins.farming.cfg",
     "config/org.bepinex.plugins.passivepowers.cfg",

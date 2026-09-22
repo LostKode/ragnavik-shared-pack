@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.11
+
+- Allow the shared Odin's Seed Bag to store supported seeds from Cooking Additions and Odin's Food Barrels.
+
 ## 1.0.10
 
 - Update Ragnavik Gameplay to 1.0.2 to restore starter chest interaction and support the current Valheim APIs.
