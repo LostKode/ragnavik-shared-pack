@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.14
+
+- Update WardIsLove to 4.0.4, Warfare to 1.9.4, Zen ModLib to 1.14.9, ZenRaids to 1.2.2, and Resurrection to 1.0.15.
+
 ## 1.0.13
 
 - Correct StartupAccelerator to its available 1.0.3 release.
