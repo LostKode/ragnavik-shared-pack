@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.12
+
+- Update Ragnavik Compatibility to 1.0.8 so Afterdeath uses a valid bed when it is closer to the death point than the nearest Skathi.
+
 ## 1.0.11
 
 - Allow the shared Odin's Seed Bag to store supported seeds from Cooking Additions and Odin's Food Barrels.
