@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.17
+
+- Allow players to carry ores, metals, and other normally restricted items through TargetPortal portals.
+
 ## 1.0.16
 
 - Update Ragnavik Gameplay to 1.0.4 with its dedicated package icon.
