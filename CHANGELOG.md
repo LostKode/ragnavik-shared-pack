@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.16
+
+- Update Ragnavik Gameplay to 1.0.4 with its dedicated package icon.
+
 ## 1.0.15
 
 - Update Ragnavik Gameplay to 1.0.3 so the starter chest cannot be damaged, targeted, or dismantled and is restored if its world object disappears.
