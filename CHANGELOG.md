@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.15
+
+- Update Ragnavik Gameplay to 1.0.3 so the starter chest cannot be damaged, targeted, or dismantled and is restored if its world object disappears.
+- Update Ragnavik Compatibility to 1.0.9 so Take All coverage remains active across Epic Loot and MagicPlugin updates.
+
 ## 1.0.14
 
 - Update WardIsLove to 4.0.4, Warfare to 1.9.4, Zen ModLib to 1.14.9, ZenRaids to 1.2.2, and Resurrection to 1.0.15.
