@@ -25,6 +25,7 @@ REQUIRED_SHARED_CONFIGS = {
     "config/org.bepinex.plugins.farming.cfg",
     "config/org.bepinex.plugins.passivepowers.cfg",
     "config/org.bepinex.plugins.professions.cfg",
+    "config/org.bepinex.plugins.targetportal.cfg",
     "config/randyknapp.mods.epicloot.cfg",
     "config/xyz.alcan.comfortcalc.cfg",
 }
