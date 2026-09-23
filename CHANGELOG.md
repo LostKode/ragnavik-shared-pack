@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.19
+
+- Disable the ZenRaids light perimeter visualization and its persistent hum while retaining lit fire spawn protection.
+- Move the Explorer pin toggle from Alt+E to Alt+L so ItemDrawers keeps its contextual Alt+E action.
+- Move AzuAutoStore Store All from Period to Alt+S and Pause Auto Store to Alt+Shift+S so storage no longer changes the minimap zoom.
+- Reduce WardIsLove ward audio from 0.35 to 0.1.
+
 ## 1.0.18
 
 - Update Ragnavik Compatibility to 1.0.11 so Afterdeath spirits can use permitted doors, resurrect at their assigned bed, and restore recovered AzuEPI items to their original quick slots.
