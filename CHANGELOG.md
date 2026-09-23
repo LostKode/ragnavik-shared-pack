@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.20
+
+- Update Ragnavik Compatibility to 1.0.12 so ItemDrawers preserves cooked food, magic reagents, upgrades, and other custom item data during automatic storage and pickup.
+
 ## 1.0.19
 
 - Disable the ZenRaids light perimeter visualization and its persistent hum while retaining lit fire spawn protection.
