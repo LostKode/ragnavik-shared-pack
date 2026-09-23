@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.22
+
+- Update Ragnavik Compatibility to 1.0.14 to restore hover prompts and interactions.
+
 ## 1.0.21
 
 - Update Ragnavik Compatibility to 1.0.13 so assigned-bed interaction remains compatible with current Valheim startup.
