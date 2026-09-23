@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.21
+
+- Update Ragnavik Compatibility to 1.0.13 so assigned-bed interaction remains compatible with current Valheim startup.
+- Update EpicLoot to 0.14.12, OdinsFoodBarrels to 1.3.1, Venture Location Reset to 1.1.0, and TargetPortal to 1.2.7.
+- Keep FirstPersonMode at its current Hexium release 1.4.0 and FineWoodPieces at Hexium's available 1.6.6.
+
 ## 1.0.20
 
 - Update Ragnavik Compatibility to 1.0.12 so ItemDrawers preserves cooked food, magic reagents, upgrades, and other custom item data during automatic storage and pickup.
