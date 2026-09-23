@@ -16,6 +16,10 @@ from build_package import build, package_files
 
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_SHARED_CONFIGS = {
+    "config/Azumatt.AzuAutoStore.cfg",
+    "config/Azumatt.WardIsLove.cfg",
+    "config/ZenDragon.ZenRaids.cfg",
+    "config/blacks7ar.Explorer.cfg",
     "config/Azumatt.MaxPlayerCount.cfg",
     "config/Azumatt.SleepSkip.cfg",
     "config/Azumatt_and_ValheimPlusDevs.PerfectPlacement.cfg",
