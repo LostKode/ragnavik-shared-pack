@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.18
+
+- Update Ragnavik Compatibility to 1.0.11 so Afterdeath spirits can use permitted doors, resurrect at their assigned bed, and restore recovered AzuEPI items to their original quick slots.
+
 ## 1.0.17
 
 - Allow players to carry ores, metals, and other normally restricted items through TargetPortal portals.
