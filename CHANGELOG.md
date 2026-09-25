@@ -2,6 +2,24 @@
 
 ## 1.0.23
 
+- Update BepInExPack_Valheim from 5.4.2350 to 5.4.2351.
+- Update AzuCraftyBoxes from 1.8.22 to 1.8.23.
+- Update FirstPersonMode from 1.4.0 to 1.4.3.
+- Update WardIsLove from 4.0.4 to 4.0.5.
+- Update MagicPlugin from 2.2.1 to 2.2.2.
+- Update CraftyCartsRemake from 3.2.1 to 3.2.3.
+- Update OdinsFoodBarrels from 1.3.1 to 1.3.3.
+- Update OdinsKingdom from 1.6.1 to 1.6.2.
+- Update OdinsUndercroft from 1.3.5 to 1.3.6.
+- Update PotionPlus from 4.3.4 to 4.3.6.
+- Update Afterdeath from 1.0.10 to 1.0.11.
+- Update ZenRaids from 1.2.2 to 1.2.3.
+- Update Zen_ModLib from 1.14.9 to 1.14.15.
+- Update PlantEverything from 1.21.2 to 1.21.3.
+- Update Max_Dungeon_Rooms from 2.0.39 to 2.0.40.
+- Update EpicLoot from 0.14.12 to 0.14.13.
+- Allow Frost Fir cones in seed bags alongside the existing vanilla and custom seeds.
+
 - Update Compatibility to 1.0.15 for per-harvest and planting XP, including bulk actions, and safe farming previews.
 - Preserve profession levels when unlearning; cap crop growth and yield at 1.5x each and retain normal cultivator stamina costs.
 
