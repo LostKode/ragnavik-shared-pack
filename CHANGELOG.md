@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.26
+
+- Require Compatibility 1.0.17. Add 60 missing EpicMMO creature mappings, including level-8 Meadows skeletons and level-15 wild Black Forest roots. Match later-biome and sleeping variants to existing progression; summoned companions and offspring grant no kill XP.
+
 ## 1.0.25
 
 - Unselected professions earn 50% skill XP; selected professions earn 100%. Keep normal maximum levels and unchanged character XP. Update profession guidance.
