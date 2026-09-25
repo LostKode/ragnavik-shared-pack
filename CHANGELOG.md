@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.25
+
+- Unselected professions earn 50% skill XP; selected professions earn 100%. Keep normal maximum levels and unchanged character XP. Update profession guidance.
+
 ## 1.0.24
 
 - Require Compatibility 1.0.16 to activate farming XP on the current game.
