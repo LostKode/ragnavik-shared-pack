@@ -2,6 +2,9 @@
 
 ## 1.0.23
 
+- Update Compatibility to 1.0.15 for per-harvest and planting XP, including bulk actions, and safe farming previews.
+- Preserve profession levels when unlearning; cap crop growth and yield at 1.5x each and retain normal cultivator stamina costs.
+
 - Disable LazyVikings beehive automation so honey remains in hives for manual collection.
 
 ## 1.0.22
