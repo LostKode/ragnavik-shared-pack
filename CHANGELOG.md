@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.27
+
+- Include Compatibility 1.0.19 for Foraging XP from full and partial collectors, cart-sign fixes, and expanded creature levels. Retain Gameplay 1.0.5: selected professions earn 100% skill XP and unselected professions earn 50%. Update AzuCraftyBoxes to 1.8.24 and FirstPersonMode to 1.4.4.
+
 ## 1.0.26
 
 - Require Compatibility 1.0.17. Add 60 missing EpicMMO creature mappings, including level-8 Meadows skeletons and level-15 wild Black Forest roots. Match later-biome and sleeping variants to existing progression; summoned companions and offspring grant no kill XP.
