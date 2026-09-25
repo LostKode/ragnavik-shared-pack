@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.24
+
+- Require Compatibility 1.0.16 to activate farming XP on the current game.
+
 ## 1.0.23
 
 - Update BepInExPack_Valheim from 5.4.2350 to 5.4.2351.
