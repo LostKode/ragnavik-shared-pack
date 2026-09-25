@@ -16,6 +16,7 @@ from build_package import build, package_files
 
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_SHARED_CONFIGS = {
+    "config/blacks7ar.LazyVikings.cfg",
     "config/Azumatt.AzuAutoStore.cfg",
     "config/Azumatt.WardIsLove.cfg",
     "config/ZenDragon.ZenRaids.cfg",

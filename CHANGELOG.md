@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.23
+
+- Disable LazyVikings beehive automation so honey remains in hives for manual collection.
+
 ## 1.0.22
 
 - Update Ragnavik Compatibility to 1.0.14 to restore hover prompts and interactions.
