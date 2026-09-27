@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_SHARED_CONFIGS = {
     "config/blacks7ar.LazyVikings.cfg",
     "config/Azumatt.AzuAutoStore.cfg",
+    "config/Azumatt.AzuCraftyBoxes.cfg",
     "config/Azumatt.WardIsLove.cfg",
     "config/ZenDragon.ZenRaids.cfg",
     "config/blacks7ar.Explorer.cfg",
