@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.28
+
+- Restore TorchesEternal 0.2.0 so torches and other fueled fire sources stay lit without repeated refilling.
+- Increase AzuAutoStore's player-triggered storage range from 5 to 20 meters.
+- Move AzuCraftyBoxes' container crafting toggle from `Shift+E` to `Alt+C`, leaving ItemDrawers' `Shift+E` deposit-all action unambiguous.
+
 ## 1.0.27
 
 - Include Compatibility 1.0.19 for Foraging XP from full and partial collectors, cart-sign fixes, and expanded creature levels. Retain Gameplay 1.0.5: selected professions earn 100% skill XP and unselected professions earn 50%. Update AzuCraftyBoxes to 1.8.24 and FirstPersonMode to 1.4.4.
