@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.29
+
+- Pin Server Devcommands 1.115.0 directly. Update OdinArchitect to 1.7.6, OdinsTraps to 1.2.0, Venture Location Reset to 1.1.1, FineWoodPieces to 1.6.7, and ZenModLib to 1.14.16.
+- Update Afterdeath to 1.0.12, AzuExtendedPlayerInventory to 2.6.0, Cooking to 1.2.4, Groups to 1.2.12, AzuCraftyBoxes to 1.8.26, DualWield to 1.0.12, and WackyEpicMMOSystem to 1.9.70.
+
 ## 1.0.28
 
 - Restore TorchesEternal 0.2.0 so torches and other fueled fire sources stay lit without repeated refilling.
