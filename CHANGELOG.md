@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.30
+
+- Include Compatibility 1.0.23: retain spirit recovery, quick-slot grave recovery, and the EpicMMO reload guard with the updated mods. Include pouch trading, backpack-key, and drawer-fed smelter fixes.
+
 ## 1.0.29
 
 - Pin Server Devcommands 1.115.0 directly. Update OdinArchitect to 1.7.6, OdinsTraps to 1.2.0, Venture Location Reset to 1.1.1, FineWoodPieces to 1.6.7, and ZenModLib to 1.14.16.
